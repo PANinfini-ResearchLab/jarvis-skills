@@ -1,5 +1,5 @@
 #!/bin/bash
-for skill in home optimize monitor orders gpu-optimizer hardware-audit agent-orchestrator system-monitor knowledge-sync ollama-manager network-diagnostics backup-manager research-assistant security-audit network-manager nas-manager log-analyzer memory-optimizer firewall-manager bandwidth-monitor storage-optimizer log-archiver cron-manager performance-benchmark; do
+for skill in home optimize monitor orders gpu-optimizer hardware-audit agent-orchestrator system-monitor knowledge-sync ollama-manager network-diagnostics backup-manager research-assistant security-audit network-manager nas-manager log-analyzer memory-optimizer firewall-manager bandwidth-monitor storage-optimizer log-archiver cron-manager performance-benchmark hardware-inventory; do
     cp -r ~/.hermes/skills/$skill ~/jarvis-skills/ 2>/dev/null
 done
 
