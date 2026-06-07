@@ -1,9 +1,7 @@
 #!/bin/bash
-# Sync skills vers GitHub automatiquement
-cp -r ~/.hermes/skills/home ~/jarvis-skills/ 2>/dev/null
-cp -r ~/.hermes/skills/optimize ~/jarvis-skills/ 2>/dev/null
-cp -r ~/.hermes/skills/monitor ~/jarvis-skills/ 2>/dev/null
-cp -r ~/.hermes/skills/orders ~/jarvis-skills/ 2>/dev/null
+for skill in home optimize monitor orders gpu-optimizer hardware-audit agent-orchestrator system-monitor knowledge-sync ollama-manager network-diagnostics backup-manager research-assistant security-audit; do
+    cp -r ~/.hermes/skills/$skill ~/jarvis-skills/ 2>/dev/null
+done
 
 cd ~/jarvis-skills
 git add .
