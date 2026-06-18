@@ -1,0 +1,8 @@
+2026-06-05T22:07:26Z INSTALL tensorrt-llm official:builtin safe sha256:3e9fe02f2f17ecb4
+2026-06-05T22:07:36Z INSTALL unsloth official:builtin dangerous sha256:57a800707ecbbbd6
+2026-06-05T22:07:44Z INSTALL docker-management official:builtin dangerous sha256:b3b0513a7dc104fa
+2026-06-05T22:07:48Z INSTALL fastmcp official:builtin dangerous sha256:aab61057773e7288
+2026-06-05T22:08:13Z INSTALL domain-intel official:builtin safe sha256:eaa692b981ec0e9f
+2026-06-05T22:08:15Z INSTALL web-pentest official:builtin dangerous sha256:86c31c12d95ab248
+2026-06-05T22:08:18Z INSTALL siyuan official:builtin dangerous sha256:063911124dfb0bf7
+2026-06-06T14:44:08Z BLOCKED optimize clawhub:community caution 10_findings

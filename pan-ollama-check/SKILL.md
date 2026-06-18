@@ -1,0 +1,1 @@
+# PAN-OLLAMA-CHECK\n**Ref. PAN-RL-434D-PanHermesSkill-0626-0099**\n**Version: 0.1**\n**Description:** Check the status of Ollama and list models via curl http://localhost:11434/api/tags\n\n## Execution\n- Check Ollama status: `curl -fsS http://localhost:11434/api/version`\n- List models: `curl -fsS http://localhost:11434/api/tags`

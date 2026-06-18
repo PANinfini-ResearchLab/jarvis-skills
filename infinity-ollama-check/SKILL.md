@@ -1,0 +1,1 @@
+# INFINITY-OLLAMA-CHECK\n**Ref. PAN-RL-434D-InfinityHermesSkill-0626-0099**\n**Version: 0.1**\n**Description:** Infinity-specific Ollama check\n\n## Execution\n- Check Ollama status: `curl -fsS http://localhost:11434/api/version`\n- List models: `curl -fsS http://localhost:11434/api/tags`

@@ -1,0 +1,314 @@
+{
+  "version": 1,
+  "installed": {
+    "baoyu-article-illustrator": {
+      "source": "official",
+      "identifier": "official/creative/baoyu-article-illustrator",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:49c09a0ee50b2e59",
+      "install_path": "creative/baoyu-article-illustrator",
+      "files": [
+        "PORT_NOTES.md",
+        "SKILL.md",
+        "prompts/system.md",
+        "references/palettes/macaron.md",
+        "references/palettes/mono-ink.md",
+        "references/palettes/neon.md",
+        "references/palettes/warm.md",
+        "references/prompt-construction.md",
+        "references/style-presets.md",
+        "references/styles/blueprint.md",
+        "references/styles/chalkboard.md",
+        "references/styles/editorial.md",
+        "references/styles/elegant.md",
+        "references/styles/fantasy-animation.md",
+        "references/styles/flat-doodle.md",
+        "references/styles/flat.md",
+        "references/styles/ink-notes.md",
+        "references/styles/intuition-machine.md",
+        "references/styles/minimal.md",
+        "references/styles/nature.md",
+        "references/styles/notion.md",
+        "references/styles/pixel-art.md",
+        "references/styles/playful.md",
+        "references/styles/retro.md",
+        "references/styles/scientific.md",
+        "references/styles/screen-print.md",
+        "references/styles/sketch-notes.md",
+        "references/styles/sketch.md",
+        "references/styles/vector-illustration.md",
+        "references/styles/vintage.md",
+        "references/styles/warm.md",
+        "references/styles/watercolor.md",
+        "references/styles.md",
+        "references/usage.md",
+        "references/workflow.md"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-06-04T14:25:02.621828+00:00",
+      "updated_at": "2026-06-04T14:25:02.621828+00:00"
+    },
+    "baoyu-comic": {
+      "source": "official",
+      "identifier": "official/creative/baoyu-comic",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:4378c8ba82fd3649",
+      "install_path": "creative/baoyu-comic",
+      "files": [
+        "PORT_NOTES.md",
+        "SKILL.md",
+        "references/analysis-framework.md",
+        "references/art-styles/chalk.md",
+        "references/art-styles/ink-brush.md",
+        "references/art-styles/ligne-claire.md",
+        "references/art-styles/manga.md",
+        "references/art-styles/minimalist.md",
+        "references/art-styles/realistic.md",
+        "references/auto-selection.md",
+        "references/base-prompt.md",
+        "references/character-template.md",
+        "references/layouts/cinematic.md",
+        "references/layouts/dense.md",
+        "references/layouts/four-panel.md",
+        "references/layouts/mixed.md",
+        "references/layouts/splash.md",
+        "references/layouts/standard.md",
+        "references/layouts/webtoon.md",
+        "references/ohmsha-guide.md",
+        "references/partial-workflows.md",
+        "references/presets/concept-story.md",
+        "references/presets/four-panel.md",
+        "references/presets/ohmsha.md",
+        "references/presets/shoujo.md",
+        "references/presets/wuxia.md",
+        "references/storyboard-template.md",
+        "references/tones/action.md",
+        "references/tones/dramatic.md",
+        "references/tones/energetic.md",
+        "references/tones/neutral.md",
+        "references/tones/romantic.md",
+        "references/tones/vintage.md",
+        "references/tones/warm.md",
+        "references/workflow.md"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-06-04T14:25:02.632327+00:00",
+      "updated_at": "2026-06-04T14:25:02.632327+00:00"
+    },
+    "creative-ideation": {
+      "source": "official",
+      "identifier": "official/creative/creative-ideation",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:0045b1d6486f5e2e",
+      "install_path": "creative/creative-ideation",
+      "files": [
+        "SKILL.md",
+        "references/full-prompt-library.md"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-06-04T14:25:02.634978+00:00",
+      "updated_at": "2026-06-04T14:25:02.634978+00:00"
+    },
+    "pixel-art": {
+      "source": "official",
+      "identifier": "official/creative/pixel-art",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:b7ae08576dac501e",
+      "install_path": "creative/pixel-art",
+      "files": [
+        "ATTRIBUTION.md",
+        "SKILL.md",
+        "references/palettes.md",
+        "scripts/__init__.py",
+        "scripts/palettes.py",
+        "scripts/pixel_art.py",
+        "scripts/pixel_art_video.py"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-06-04T14:25:02.636194+00:00",
+      "updated_at": "2026-06-04T14:25:02.636194+00:00"
+    },
+    "minecraft-modpack-server": {
+      "source": "official",
+      "identifier": "official/gaming/minecraft-modpack-server",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:b10f2b1258e9012b",
+      "install_path": "gaming/minecraft-modpack-server",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-06-04T14:25:02.637438+00:00",
+      "updated_at": "2026-06-04T14:25:02.637438+00:00"
+    },
+    "pokemon-player": {
+      "source": "official",
+      "identifier": "official/gaming/pokemon-player",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:c1bc96fc9bb270c0",
+      "install_path": "gaming/pokemon-player",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-06-04T14:25:02.637826+00:00",
+      "updated_at": "2026-06-04T14:25:02.637826+00:00"
+    },
+    "dspy": {
+      "source": "official",
+      "identifier": "official/mlops/research/dspy",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:bbbe1148d27953a8",
+      "install_path": "mlops/research/dspy",
+      "files": [
+        "SKILL.md",
+        "references/examples.md",
+        "references/modules.md",
+        "references/optimizers.md"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-06-04T14:25:02.639270+00:00",
+      "updated_at": "2026-06-04T14:25:02.639270+00:00"
+    },
+    "tensorrt-llm": {
+      "source": "official",
+      "identifier": "official/mlops/tensorrt-llm",
+      "trust_level": "builtin",
+      "scan_verdict": "safe",
+      "content_hash": "sha256:3e9fe02f2f17ecb4",
+      "install_path": "mlops/tensorrt-llm",
+      "files": [
+        "SKILL.md",
+        "references/serving.md",
+        "references/optimization.md",
+        "references/multi-gpu.md"
+      ],
+      "metadata": {},
+      "installed_at": "2026-06-05T22:07:26.489922+00:00",
+      "updated_at": "2026-06-05T22:07:26.489929+00:00"
+    },
+    "unsloth": {
+      "source": "official",
+      "identifier": "official/mlops/training/unsloth",
+      "trust_level": "builtin",
+      "scan_verdict": "dangerous",
+      "content_hash": "sha256:57a800707ecbbbd6",
+      "install_path": "mlops/training/unsloth",
+      "files": [
+        "SKILL.md",
+        "references/index.md",
+        "references/llms-full.md",
+        "references/llms.md",
+        "references/llms-txt.md"
+      ],
+      "metadata": {},
+      "installed_at": "2026-06-05T22:07:36.942292+00:00",
+      "updated_at": "2026-06-05T22:07:36.942299+00:00"
+    },
+    "docker-management": {
+      "source": "official",
+      "identifier": "official/devops/docker-management",
+      "trust_level": "builtin",
+      "scan_verdict": "dangerous",
+      "content_hash": "sha256:b3b0513a7dc104fa",
+      "install_path": "devops/docker-management",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {},
+      "installed_at": "2026-06-05T22:07:44.329369+00:00",
+      "updated_at": "2026-06-05T22:07:44.329376+00:00"
+    },
+    "fastmcp": {
+      "source": "official",
+      "identifier": "official/mcp/fastmcp",
+      "trust_level": "builtin",
+      "scan_verdict": "dangerous",
+      "content_hash": "sha256:aab61057773e7288",
+      "install_path": "mcp/fastmcp",
+      "files": [
+        "SKILL.md",
+        "scripts/scaffold_fastmcp.py",
+        "templates/file_processor.py",
+        "templates/api_wrapper.py",
+        "templates/database_server.py",
+        "references/fastmcp-cli.md"
+      ],
+      "metadata": {},
+      "installed_at": "2026-06-05T22:07:48.826109+00:00",
+      "updated_at": "2026-06-05T22:07:48.826115+00:00"
+    },
+    "domain-intel": {
+      "source": "official",
+      "identifier": "official/research/domain-intel",
+      "trust_level": "builtin",
+      "scan_verdict": "safe",
+      "content_hash": "sha256:eaa692b981ec0e9f",
+      "install_path": "research/domain-intel",
+      "files": [
+        "SKILL.md",
+        "scripts/domain_intel.py"
+      ],
+      "metadata": {},
+      "installed_at": "2026-06-05T22:08:13.705272+00:00",
+      "updated_at": "2026-06-05T22:08:13.705279+00:00"
+    },
+    "web-pentest": {
+      "source": "official",
+      "identifier": "official/security/web-pentest",
+      "trust_level": "builtin",
+      "scan_verdict": "dangerous",
+      "content_hash": "sha256:86c31c12d95ab248",
+      "install_path": "security/web-pentest",
+      "files": [
+        "SKILL.md",
+        "scripts/recon-scan.sh",
+        "templates/authorization.md",
+        "templates/pentest-report.md",
+        "templates/exploitation-queue.json",
+        "references/vuln-taxonomy.md",
+        "references/exploitation-techniques.md",
+        "references/bypass-techniques.md",
+        "references/scope-enforcement.md"
+      ],
+      "metadata": {},
+      "installed_at": "2026-06-05T22:08:15.962511+00:00",
+      "updated_at": "2026-06-05T22:08:15.962518+00:00"
+    },
+    "siyuan": {
+      "source": "official",
+      "identifier": "official/productivity/siyuan",
+      "trust_level": "builtin",
+      "scan_verdict": "dangerous",
+      "content_hash": "sha256:063911124dfb0bf7",
+      "install_path": "productivity/siyuan",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {},
+      "installed_at": "2026-06-05T22:08:18.481357+00:00",
+      "updated_at": "2026-06-05T22:08:18.481363+00:00"
+    }
+  }
+}
